@@ -8,7 +8,7 @@ public class Bike implements MileCalculator {
 	@Override
 	public void showMileage() {
 		// TODO Auto-generated method stub
-		System.out.println("Bike Mileage is...50kmpl");
+		System.out.println("Bike Mileage is..."+40+" Kmph");
 		
 	}
 
